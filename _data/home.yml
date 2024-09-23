@@ -10,11 +10,11 @@ navbar_entries:
 
 project_entries:
   - title: MPH Community Practicum
-    url: https://github.com/liv4data/portfolio/blob/3c1fdac511f2b724d13ca96c193a00f646f420a0/_posts/2024-09-12-mph-practicum-post.md
+    url: https://liv4data.github.io/portfolio/mph-practicum-post
     desc: Documentation related to my community practicum project I completed to earn my Master of Public Health.
 
   - title: Study History Database
-    url: https://github.com/liv4data/portfolio/blob/3c1fdac511f2b724d13ca96c193a00f646f420a0/_posts/2024-09-22-study-history-database.md
+    url: https://liv4data.github.io/portfolio/study-history-database
     desc: Database I created using Microsoft Access collecting information related to the various research studies and clinical trials my site has conducted. A work in progress.
 
 
