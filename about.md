@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-![](https://github.com/liv4data/portfolio/blob/5e3556a7e52c4d6d18105fc8b08d96e362c40b4f/images/IMG_3180.jpg)
+![Olivia Headshot](images/IMG_3180.jpg)
 
 Hello, world!
 
