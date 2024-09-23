@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-<img src="https://github.com/liv4data/portfolio/blob/ac75cad1fa47dc2da3bbb1913b8fa581521f1d37/images/IMG_3180.jpg" width="150">
+![](https://github.com/liv4data/portfolio/blob/5e3556a7e52c4d6d18105fc8b08d96e362c40b4f/images/IMG_3180.jpg)
 
 Hello, world!
 
